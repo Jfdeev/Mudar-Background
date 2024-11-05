@@ -54,6 +54,3 @@ Abra o arquivo `index.html` em seu navegador preferido. A página estará pronta
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-Esse README fornece uma visão geral do projeto, explicações sobre como utilizá-lo, além de detalhes sobre como contribuir. Se você precisar de algo mais ou quiser expandir o projeto, estou aqui para ajudar!
